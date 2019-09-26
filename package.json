@@ -1,0 +1,23 @@
+{
+  "name": "MuseumofCandy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadahmedtaj/BS4-Museum-of-Candy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadahmedtaj/BS4-Museum-of-Candy/issues"
+  },
+  "homepage": "https://jawadahmedtaj.github.io/MuseumofCandy",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
